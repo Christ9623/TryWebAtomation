@@ -47,8 +47,7 @@ public class WebTestAfterRefactor extends BaseWebTest{
 		//System.out.println(driver.findElement(By.xpath("//div[@id='flash']")).getText());
 		String actualText = driver.findElement(By.xpath("//div[@id='flash']")).getText();
 		String expectedText = "Your password is invalid!";
-		Assert.assertTrue(actualText.contains(expectedText));
-		
+		Assert.assertTrue(actualText.contains(expectedText));	
 		
 	}
 	
