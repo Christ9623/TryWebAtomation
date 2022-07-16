@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40776" started-at="2022-07-16T03:53:05Z" finished-at="2022-07-16T03:53:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40776" started-at="2022-07-16T03:53:05Z" finished-at="2022-07-16T03:53:45Z">
+      <class name="qaautomation.july2022.WebTestAfterRefactor">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="setUp" is-config="true" duration-ms="2872" started-at="2022-07-16T03:53:05Z" finished-at="2022-07-16T03:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="testLogin" duration-ms="8141" started-at="2022-07-16T03:53:08Z" finished-at="2022-07-16T03:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="tearDown" is-config="true" duration-ms="726" started-at="2022-07-16T03:53:16Z" finished-at="2022-07-16T03:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="setUp" is-config="true" duration-ms="1349" started-at="2022-07-16T03:53:17Z" finished-at="2022-07-16T03:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginWrongPassword()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="testLoginWrongPassword" duration-ms="6722" started-at="2022-07-16T03:53:18Z" finished-at="2022-07-16T03:53:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWrongPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="tearDown" is-config="true" duration-ms="719" started-at="2022-07-16T03:53:25Z" finished-at="2022-07-16T03:53:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="setUp" is-config="true" duration-ms="1339" started-at="2022-07-16T03:53:25Z" finished-at="2022-07-16T03:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginWrongUsername()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="testLoginWrongUsername" duration-ms="6389" started-at="2022-07-16T03:53:27Z" finished-at="2022-07-16T03:53:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWrongUsername -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="tearDown" is-config="true" duration-ms="961" started-at="2022-07-16T03:53:33Z" finished-at="2022-07-16T03:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="setUp" is-config="true" duration-ms="1355" started-at="2022-07-16T03:53:34Z" finished-at="2022-07-16T03:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginWrongUsernameAndPassword()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="testLoginWrongUsernameAndPassword" duration-ms="9288" started-at="2022-07-16T03:53:35Z" finished-at="2022-07-16T03:53:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWrongUsernameAndPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:qaautomation.july2022.WebTestAfterRefactor@6a370f4]" name="tearDown" is-config="true" duration-ms="693" started-at="2022-07-16T03:53:45Z" finished-at="2022-07-16T03:53:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaautomation.july2022.WebTestAfterRefactor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
